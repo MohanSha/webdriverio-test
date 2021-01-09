@@ -13,7 +13,8 @@ Example: `cd mohansha/webdriverio-test/`
 ```
 docker run -d -p 4444:4444 -v /dev/shm:/dev/shm selenium/standalone-chrome:4.0.0-beta-1-prerelease-20210106
 ```
-5. Execute test
+5. Run below command execute test
 ```
 npx wdio run wdio.conf.js
 ```
+6. Check terminal for test case report
