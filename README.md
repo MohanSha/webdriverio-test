@@ -1,6 +1,8 @@
 # webdriverio-test
 
-Prerequisite: Docker needs to be installed
+Prerequisite: 
+1. Docker needs to be installed
+2. npm needs to be intalled
 
 ### Steps to execute
 
