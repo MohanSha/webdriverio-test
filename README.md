@@ -4,7 +4,7 @@ Prerequisite: Docker needs to be installed
 
 ### Steps to execute
 
-1. Clone this repo to your local
+1. Clone this repo to your local \
 `git clone https://github.com/MohanSha/webdriverio-test.git`
 2. Change directory to cloned repo \
 Example: `cd mohansha/webdriverio-test/`
