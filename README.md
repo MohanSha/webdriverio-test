@@ -17,3 +17,5 @@ docker run -d -p 4444:4444 -v /dev/shm:/dev/shm selenium/standalone-chrome:4.0.0
 npx wdio run wdio.conf.js
 ```
 </ol>
+
+Test script: https://github.com/MohanSha/webdriverio-test/blob/master/test/specs/basic.js
