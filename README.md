@@ -22,3 +22,5 @@ npx wdio run wdio.conf.js
 6. Check terminal for test case report
 
 Test script: https://github.com/MohanSha/webdriverio-test/blob/master/test/specs/basic.js
+
+Download Demo Video: https://raw.githubusercontent.com/MohanSha/webdriverio-test/master/Demo.mov
